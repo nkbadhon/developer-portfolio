@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -21,16 +22,23 @@ section {
 
 .half-width img {
     width: 50;
-    height: 65%;
+    height: 70%;
 }
 
 .hireme {
     text-decoration: none;
-    background-image: linear-gradient(orange);
+    background-image: linear-gradient(orange, tomato);
     color: white;
-    font-weight: 400;
+    font-weight: 700;
+    border-radius: 3px;
     padding: 10px 40px;
-    border-radius: 5px;
 
+
+}
+
+.top-banner {
+
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 
 }
