@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 50;
+    height: 65%;
+}
+
+.hireme {
+    text-decoration: none;
+    background-image: linear-gradient(orange);
+    color: white;
+    font-weight: 400;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+
+}
