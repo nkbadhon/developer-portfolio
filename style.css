@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -49,3 +49,5 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experience {}
