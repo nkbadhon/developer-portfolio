@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 45;
+}
+
 .orange {
     color: orange;
 }
@@ -50,4 +54,30 @@ h1 {
     background-position: right;
 }
 
-.experience {}
+.experience-box {
+    box-shadow: 10px 10px 10px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.experience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+#baby-web {
+    border-left: 7px solid blue;
+}
+
+#Full-stack {
+    border-left: 7px solid tomato;
+}
+
+footer p {
+    text-align: center;
+}
